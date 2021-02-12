@@ -1,0 +1,36 @@
+.paper {
+	display: flex;
+	align-items: center;
+	background: #ff742b;
+	height: auto;
+	padding: 4px;
+	position: relative;
+	justify-content: space-between;
+}
+
+.image {
+	width: 48px;
+	margin-right: 8px;
+}
+
+.link {
+	display: flex;
+	text-decoration: none;
+	align-items: center;
+}
+
+.SearchHeader_label {
+	color: #000;
+	font-size: 18px;
+	line-height: 1;
+	margin-right: 8px;
+}
+
+input {
+	width: 900px;
+	padding: 6px;
+	border: none;
+	margin-top: 8px;
+	margin-right: 16px;
+	font-size: 17px;
+}

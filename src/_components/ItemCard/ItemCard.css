@@ -1,0 +1,23 @@
+.item-infos {
+	display: flex;
+}
+
+a {
+	font-size: 17px;
+	font-weight: 300;
+	color: black;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul a {
+	font-size: 13px;
+	color: gray;
+}
+
+li {
+	padding-right: 5px;
+}
