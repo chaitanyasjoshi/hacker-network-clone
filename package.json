@@ -19,9 +19,7 @@
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "serve": "^11.3.2"
-  },
-  "devDependencies": {
+    "serve": "^11.3.2",
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-react": "^7.0.0",
